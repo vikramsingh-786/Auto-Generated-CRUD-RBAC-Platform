@@ -24,11 +24,11 @@ Here is a walkthrough of the platform's user flow:
 
 | Landing Page | Register & Login |
 | :---: | :---: |
-| ![Landing Page](path/to/your/landing-page-screenshot.png) | ![Register Page](path/to/your/register-page-screenshot.png) |
+| ![Landing Page](./docs/images/s1.png) | ![Register Page](./docs/images/s2.png) |
 | **Dashboard** | **Visual Model Creator** |
-| ![Dashboard](path/to/your/dashboard-screenshot.png) | ![Create Model Page](path/to/your/create-model-screenshot.png) |
+| ![Dashboard](./docs/images/s3.png) | ![Create Model Page](./docs/images/s4.png) |
 | **Dynamic Data Management** | **Authentication Flow** |
-| ![Product Data Page](path/to/your/product-data-screenshot.png) | ![Welcome Back Page](path/to/your/welcome-back-screenshot.png) |
+| ![Product Data Page](./docs/images/s5.png) | ![Welcome Back Page](./docs/images/s6.png) |
 
 ## 💻 Tech Stack
 
