@@ -1,0 +1,29 @@
+{
+  "name": "Product",
+  "ownerField": "creatorId",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "creatorId",
+      "type": "number",
+      "required": false
+    }
+  ],
+  "rbac": {
+    "Admin": [
+      "all"
+    ],
+    "Manager": [
+      "create",
+      "read",
+      "update"
+    ],
+    "Viewer": [
+      "read"
+    ]
+  },
+  "tableName": "product"
+}
